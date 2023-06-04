@@ -40,15 +40,27 @@
 ## Ход работы
   
   1. Сделал шапку сайта. В ней разместил простейшую навигацию с гиперссылками внутри сайта
+  
   ![image](https://github.com/NimaDosOFF/Web-Portfolio/assets/133951460/5ede6bad-f1ed-4836-a0de-18bd6594ff99)
 
   2. Оформил главный экран. На нем описал свой род деятельности
+  
   ![image](https://github.com/NimaDosOFF/Web-Portfolio/assets/133951460/710dd8b9-cfac-406b-90e0-78ba07c2ddab)
 
   3. Следом идет список моих возможностей с примерами работ
+  
+  ![image](https://github.com/NimaDosOFF/Web-Portfolio/assets/133951460/85ffa625-6393-49a8-b551-91f2217436a7)
+
   4. Далее сделал небольшой раздел "Обо мне". Расписал основную информацию
+  
+  ![image](https://github.com/NimaDosOFF/Web-Portfolio/assets/133951460/1d781d07-6354-440b-ad6d-64da5da54ccf)
+
   5. Мои контакты. Ссылки на соц сети и электронная почта
+  
+  ![image](https://github.com/NimaDosOFF/Web-Portfolio/assets/133951460/2adde2c7-aa76-4a2d-a6f4-221277ee338c)
+  
   6. Оптимизировал сайт под устройства с разным соотношением сторон и разрешением дисплея
+  
   7. Запостил сайт на хостинге NicePage
 
 
