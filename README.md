@@ -47,9 +47,9 @@
   
   ![image](https://github.com/NimaDosOFF/Web-Portfolio/assets/133951460/710dd8b9-cfac-406b-90e0-78ba07c2ddab)
 
-  3. Следом идет список моих возможностей с примерами работ
+  3. Следом идет список моих возможностей с примерами работ (портфолио)
   
-  ![image](https://github.com/NimaDosOFF/Web-Portfolio/assets/133951460/85ffa625-6393-49a8-b551-91f2217436a7)
+  ![image](https://github.com/NimaDosOFF/Web-Portfolio/assets/133951460/a3fdac1d-16f5-4604-ade8-555cfb4a4271)
 
   4. Далее сделал небольшой раздел "Обо мне". Расписал основную информацию
   
