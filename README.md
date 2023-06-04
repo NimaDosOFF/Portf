@@ -57,4 +57,4 @@
 ## Контакты
 - VK : [Дмитрий Носов](https://vk.com/nimadosov)
 - [Telegram](https://t.me/dosoff)
-- mail : noa3eng#yandex.ru
+- mail : noa3eng@yandex.ru
