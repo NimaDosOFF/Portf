@@ -51,6 +51,7 @@
 ## Посетить сайт
   
   https://nimadosoff.github.io/Web-Portfolio/  - githubPages
+  
   https://nimadosoff.nicepage.io/?version=5909bc27-6faf-45bb-a96d-d347ad09ff1d&uid=d5f1386c-4d24-4906-8562-fa7d4289e08b - NicePage
 
 ## Контакты
