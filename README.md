@@ -1,5 +1,5 @@
 
-https://nimadosoff.github.io/Web-Portfolio/
+
 # NicePage: Создание своего онлайн портфолио
 <p align='center'>
 <img src='https://kuyhaa.cc/wp-content/uploads/2022/10/Nicepage-Crack-4.19.3-Keygen-Terbaru-Gratis-Unduh.png'>
@@ -37,20 +37,21 @@ https://nimadosoff.github.io/Web-Portfolio/
   Ну и конечно самое главное преимущество состоит в том, что для создания такого сайта вам не нужно знать ни языков программирования, ни языков разметки. Нужно просто быть более менее опытным пользователем. Так как придется заполнять множество форм и загружать изображения. В некоторых онлайн конструкторах сайтов это даже проще сделать, чем в некоторых социальных сетях.
 Уже готовая структура сайта. При создании такого ресурса вам не придется ломать голову, что и куда поместить, так как вам представляется уже готовая структура с примерами, по которым вам просто нужно все заполнить.
 
-## Пререндер 
-<p align='center'>
-<img src='https://sun9-29.userapi.com/impg/J_H89Uc2DY_jZ603L67nYVm4xjMha4anIXBDKw/6SP9CHxDA00.jpg?size=1780x853&quality=96&sign=0d2bc3f20dc0a80fff0cee580fb9245e&type=album'>
+## Ход работы
   
-<img src='https://sun9-28.userapi.com/impg/VTe3WiD63g1e5UL5CFfMfemwV8fevKaRpOUIfA/lPxSLewCitQ.jpg?size=1578x1014&quality=96&sign=d5dc7510bece036e08e32197e54c4d6f&type=album'> </p>
+  1. Сделал шапку сайта. В ней разместил простейшую навигацию с гиперссылками внутри сайта
+  2. Оформил главный экран. На нем описал свой род деятельности
+  3. Следом идет список моих возможностей с примерами работ
+  4. Далее сделал небольшой раздел "Обо мне". Расписал основную информацию
+  5. Мои контакты. Ссылки на соц сети и электронная почта
+  6. Оптимизировал сайт под устройства с разным соотношением сторон и разрешением дисплея
+  7. Запостил сайт на хостинге NicePage
 
-## Готовые рендеры на движке Cycles
 
-<p align='center'>
-
+## Посетить сайт
   
-<img src='https://sun9-35.userapi.com/impg/aT32pBh261sC1G7pvQSnEJeMXoCbfrs_VYyzZQ/ubwQwOx6dpQ.jpg?size=1920x1080&quality=96&sign=b3c05c52403968466e235b24eb470d07&type=album'>
-<img src='https://sun9-66.userapi.com/impg/ddWXek4l3UK2wLVuxLO9_udRE_dUMqJ_IBXhBQ/0m6QaqjtAuE.jpg?size=1920x1080&quality=96&sign=4289d2f814422dd1959c9ae19d487927&type=album'> </p>
-
+  https://nimadosoff.github.io/Web-Portfolio/  - githubPages
+  https://nimadosoff.nicepage.io/?version=5909bc27-6faf-45bb-a96d-d347ad09ff1d&uid=d5f1386c-4d24-4906-8562-fa7d4289e08b - NicePage
 
 ## Контакты
 - VK : [Дмитрий Носов](https://vk.com/nimadosov)
